@@ -1,27 +1,26 @@
-Information:
-    Name:
-    Nature:
-    Demeanor:
-    Concept:
+Name:
+Nature:
+Demeanor:
+Concept:
 
-    Splat: "(Garou, Ratkin, etc)"
-    Tribe: "(or Plague or Stream …)"
-    Breed:
-    Auspice: "(or Aspect or Pryio …)"
-    Rank:
+Type:
+Tribe:
+    Alias:
+    Type:
+Breed:
+Auspice:
+    Alias:
+    Type:
+Rank:
 
-    Born:
-    Changed:
+Group:
 
-    Eyes:
-    Hair:
-    Build:
+Born:
+Changed:
 
-    Description:
+Description:
 
-    Goals:
-
-    History:
+History:
 
 Attributes:
     Strength:
@@ -41,82 +40,73 @@ Abilities:
         Alertness:
         Athletics:
         Brawl:
-        Dodge:
         Empathy:
         Expression:
         Intimidation:
-        PrimalUrge:
+        Leadership:
+        Primal-Urge:
         Streetwise:
         Subterfuge:
         Other:
             -
+                Name:
+                Value:
 
     Skills:
-        AnimalKen:
+        Animal Ken:
         Crafts:
+            Type:
+            Value:
         Drive:
         Etiquette:
         Firearms:
-        Leadership:
+        Larceny:
         Melee:
         Performance:
+            Type:
+            Value:
         Stealth:
         Survival:
-        Other:
-            -
 
     Knowledges:
+        Academics:
         Computer:
         Enigmas:
         Investigation:
         Law:
-        Linguistics:
         Medicine:
         Occult:
-        Politics:
         Rituals:
         Science:
-        Other:
-            -
-
-    Crafts:
-        -
-    Performances:
-        -
-    Languages:
-        -
-
+        Technology:
 
 Backgrounds:
+    Contacts:
+        Value:
+        Items:
+            -
+
+
+Gifts:
+    -
+
+Rites:
     -
         Name:
-        Value:
-        Explanation:
+        Level:
 
-Spirit:
-    Gifts:
-        Level1:
-            -
-        Level2:
-            -
+Rage:
+Gnosis:
+Willpower:
 
-    Rites:
-        Level1:
-            -
+Renown:
+    -
+        Type:
+        Permanent:
+        Temporary:
 
-    Rage:
-    Gnosis:
-    Willpower:
+Merits:
+    -
 
-    Renown:
-        Glory:
-        Honor:
-        Wisdom:
-
-    Merits:
-        -
-
-    Flaws:
-        -
-
-Other:
+Flaws:
+    -
